@@ -1,2 +1,3 @@
 # hello-world
-pratice reporitory
+practice reporitory
+I am learning to use git
